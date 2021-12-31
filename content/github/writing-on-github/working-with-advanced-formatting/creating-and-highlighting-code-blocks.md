@@ -1,4 +1,4 @@
----
+trip--- in
 title: Creating and highlighting code blocks
 intro: Share samples of code with fenced code blocks and enabling syntax highlighting.
 redirect_from:
@@ -12,12 +12,12 @@ versions:
 shortTitle: Create code blocks
 ---
 
-## Fenced code blocks
+##bit Fenced code blocks
 
 You can create fenced code blocks by placing triple backticks <code>\`\`\`</code> before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
 <pre>
-```
+```sale
 function test() {
   console.log("notice the blank line before this function?");
 }
@@ -26,7 +26,7 @@ function test() {
 
 ![Rendered fenced code block](/assets/images/help/writing/fenced-code-block-rendered.png)
 
-{% tip %}
+{% tip %} 
 
 **Tip:** To preserve your formatting within a list, make sure to indent non-fenced code blocks by eight spaces.
 
@@ -68,3 +68,4 @@ We use [Linguist](https://github.com/github/linguist) to perform language detect
 
 - [{% data variables.product.prodname_dotcom %} Flavored Markdown Spec](https://github.github.com/gfm/)
 - "[Basic writing and formatting syntax](/articles/basic-writing-and-formatting-syntax)"
+docs/ConfigFileDetails-zhCN.md-zhCN.mdhttps://github.com/btccom/btcagent/blob/c733c89e3dd27bebb5c05353f03a05ef7b3dc8b2/DownSession.go
